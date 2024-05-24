@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghav-890
 - 👀 I’m interested in programming and mathematics 
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning dsa in cpp
 - 📫 How to reach me- raghavpratap619@gmail.com
 
 <!---
