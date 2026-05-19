@@ -1,7 +1,38 @@
-- 👋 Hi, I’m @raghav-890
-- 👀 I’m interested in programming and mathematics 
-- 🌱 I’m currently learning dsa in cpp
-- 📫 How to reach me- raghavpratap619@gmail.com
+```bash
+> Hi I am Raghav Pratap Singh
+
+> Expertise
+  DSA | AI | ML | Deep Learning | GenAI | RAG | Agentic AI | Multi-Agents
+
+> Building intelligent systems that not only respond, but also reason, adapt, and evolve.
+
+> I am
+🚀 Passionate about building intelligent systems using Machine Learning, Deep Learning,
+   Generative AI, and Agentic AI.  
+⚡ Focused on creating autonomous AI workflows, scalable ML solutions, and data-driven technologies
+   that solve real-world problems.
+```
+
+
+<div align="left">
+
+##  ✨ Tech Stack
+
+
+</div>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,docker,git,vscode,streamlit"/><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" height="68"/><img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%9A%80;Training+Models+%7C+Building+Agents+%7C+Solving+Problems;Always+Learning.+Always+Building." />
+
+</div>
+
+
 
 <!---
 raghav-890/raghav-890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
