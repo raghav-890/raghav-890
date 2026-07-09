@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white" height="68"/>
 <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="68"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%9A%80;Training+Models+%7C+Building+Agents+%7C+Solving+Problems;Always+Learning.+Always+Building."/>
+</div>
 <!-- <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,docker,git,vscode,streamlit"/><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" height="68"/><img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graphql&logoColor=white"/><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+%F0%9F%9A%80;Training+Models+%7C+Building+Agents+%7C+Solving+Problems;Always+Learning.+Always+Building."/> -->
 
-</div>
 <!-- </div>
 
 <!-- <div align="center"> --> -->
