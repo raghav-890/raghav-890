@@ -8,7 +8,7 @@
 > I am 🚀 Passionate about building intelligent systems using
   Machine Learning, Deep Learning, Gen-AI, and Agentic AI.
 > 📊 Interested in Data Engineering & Analytics—architecting robust data pipelines and
-   extracting actionable insights.
+  extracting actionable insights.
 > ⚡ Focused on creating autonomous AI workflows, scalable ML solutions that solve real-world problems.
 ```
 
