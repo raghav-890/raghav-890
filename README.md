@@ -1,7 +1,7 @@
 ```bash
 > Hi I am Raghav Pratap Singh
 
-> Expertise AI | ML | Deep Learning | GenAI | RAG | Agentic AI | Multi-Agents | Data Analytics | Data Engineering
+> Expertise AI | ML | Deep Learning | GenAI | RAG | Agentic AI | Multi-Agents | Data Analytics
 
 > Building intelligent systems that not only respond, but also reason, adapt, and evolve.
 
