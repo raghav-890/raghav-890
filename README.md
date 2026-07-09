@@ -1,16 +1,13 @@
 ```bash
 > Hi I am Raghav Pratap Singh
 
-> Expertise
-  DSA | AI | ML | Deep Learning | GenAI | RAG | Agentic AI | Multi-Agents
+> Expertise DSA | AI | ML | Deep Learning | GenAI | RAG | Agentic AI | Multi-Agents | Data Analytics | Data Engineering
 
 > Building intelligent systems that not only respond, but also reason, adapt, and evolve.
 
-> I am
-🚀 Passionate about building intelligent systems using Machine Learning, Deep Learning,
-   Generative AI, and Agentic AI.  
-⚡ Focused on creating autonomous AI workflows, scalable ML solutions, and data-driven technologies
-   that solve real-world problems.
+> I am 🚀 Passionate about building intelligent systems using Machine Learning, Deep Learning, Generative AI, and Agentic AI.
+> 📊 Interested in Data Engineering & Analytics—architecting robust data pipelines and extracting actionable insights from raw data.
+> ⚡ Focused on creating autonomous AI workflows, scalable ML solutions, and data-driven technologies that solve real-world problems.
 ```
 
 
